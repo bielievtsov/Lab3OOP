@@ -1,0 +1,17 @@
+C:\Users\Vitalii\source\repos\POSLEDNYA LBA\POSLEDNYA LBA\bin\Debug\POSLEDNYA LBA.exe.config
+C:\Users\Vitalii\source\repos\POSLEDNYA LBA\POSLEDNYA LBA\bin\Debug\POSLEDNYA LBA.exe
+C:\Users\Vitalii\source\repos\POSLEDNYA LBA\POSLEDNYA LBA\bin\Debug\POSLEDNYA LBA.pdb
+C:\Users\Vitalii\source\repos\POSLEDNYA LBA\POSLEDNYA LBA\obj\Debug\POSLEDNYA LBA.csprojAssemblyReference.cache
+C:\Users\Vitalii\source\repos\POSLEDNYA LBA\POSLEDNYA LBA\obj\Debug\POSLEDNYA_LBA.MainForm.resources
+C:\Users\Vitalii\source\repos\POSLEDNYA LBA\POSLEDNYA LBA\obj\Debug\POSLEDNYA_LBA.Properties.Resources.resources
+C:\Users\Vitalii\source\repos\POSLEDNYA LBA\POSLEDNYA LBA\obj\Debug\POSLEDNYA LBA.csproj.GenerateResource.cache
+C:\Users\Vitalii\source\repos\POSLEDNYA LBA\POSLEDNYA LBA\obj\Debug\POSLEDNYA LBA.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\source\repos\POSLEDNYA LBA\POSLEDNYA LBA\obj\Debug\POSLEDNYA LBA.exe
+C:\Users\Vitalii\source\repos\POSLEDNYA LBA\POSLEDNYA LBA\obj\Debug\POSLEDNYA LBA.pdb
+C:\Users\Vitalii\source\repos\POSLEDNYA LBA\POSLEDNYA LBA\obj\Debug\POSLEDNYA_LBA.Resource.resources
+C:\Users\Vitalii\source\repos\POSLEDNYA LBA\POSLEDNYA LBA\obj\Debug\POSLEDNYA_LBA.Menu.resources
+C:\Users\Vitalii\source\repos\POSLEDNYA LBA\POSLEDNYA LBA\bin\Debug\Json.dll
+C:\Users\Vitalii\source\repos\POSLEDNYA LBA\POSLEDNYA LBA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vitalii\source\repos\POSLEDNYA LBA\POSLEDNYA LBA\bin\Debug\Json.pdb
+C:\Users\Vitalii\source\repos\POSLEDNYA LBA\POSLEDNYA LBA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vitalii\source\repos\POSLEDNYA LBA\POSLEDNYA LBA\obj\Debug\POSLEDNYA LBA.csproj.CopyComplete
